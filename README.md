@@ -6,3 +6,5 @@ This project is a demonstration of the process of projecting a three dimensional
 
 ### Installation:
 None! This app is running right now in GitHub Pages. you can visit the app <a href="https://pokkefe.github.io/cg-3dprojections/">here</a>.
+
+our sample scene can be controlled using the keyboard, press the "wsad" keys to move the camera forward, backwards, left, and right. Use the left and right arrow keys to rotate the camera and change the projections. The scene can be changed in the interface below the canvas, feel free to modify the dample scene and add more objects.
